@@ -65,7 +65,7 @@ int main() {
     }
 
     if(!found) {
-        printf("Element not found.\n");
+        printf("Elements not found.\n");
     }
 
     return 0;
