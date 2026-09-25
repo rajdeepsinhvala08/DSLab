@@ -1,1 +1,1 @@
-code/echo \#\ DSLab
+Practical work updated.
